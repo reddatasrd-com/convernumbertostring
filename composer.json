@@ -1,0 +1,17 @@
+{
+    "name": "redlinux/convernumbertostring",
+    "description": "Convertido de numero a letra",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Edwin rosario",
+            "email": "rosarioedwinac@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "Redlinux\\Conver\\":"src/"
+        } 
+    }
+}
